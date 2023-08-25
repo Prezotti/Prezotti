@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CONEXOS](https://www.conexos.com.br/)
 
-- 🌱 I’m currently learning **PLSQL, Javascript, Java, Spring Boot**
+- 🌱 I’m currently learning **PLSQL, Javascript, Java, Spring Boot, Flutter, Dart**
 
 - 📫 How to reach me **henriqueprezotti@gmail.com**
 
